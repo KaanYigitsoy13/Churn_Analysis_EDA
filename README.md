@@ -27,6 +27,3 @@ The dataset encompasses a wide array of metrics pertinent to user interactions, 
 ### Recommendations and Summary
 - Compilation of actionable recommendations based on the analysis to enhance user engagement and rectify identified issues.
 - Conclusive summary of key insights and suggested strategies for game optimization.
-
-## Notes
-Please note that while this repository is hosted on GitHub, certain interactive visualizations may not render directly in the platform's interface. For an optimal viewing experience and to interact with dynamic plots, it is recommended to view the analysis through a Jupyter environment, or platforms like Kaggle that support interactive content.
