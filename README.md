@@ -3,6 +3,9 @@
 ## Overview
 This repository contains an in-depth analysis aimed at uncovering the reasons behind a sudden decline in user engagement within a mobile game. The project focuses on scrutinizing the first 100 levels of the game, utilizing a combination of User Experience (UX) analysis and individual level analysis to identify potential causes and recommend optimization strategies.
 
+## Notebook
+https://github.com/KaanYigitsoy13/Churn_Analysis_EDA/blob/main/Churn_Analysis.ipynb
+
 ## Data
 The dataset encompasses a wide array of metrics pertinent to user interactions, level performance, and engagement metrics across the initial 100 levels of the game. This includes, but is not limited to, session lengths, level completion rates, user retention figures, and in-game behavioral data.
 
